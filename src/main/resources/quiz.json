@@ -1,0 +1,266 @@
+[
+  {
+    "answerkey": "4",
+    "question": "Which is not part of system testing?",
+    "option3": "Load Testing",
+    "option4": "Unit Testing",
+    "option1": "Regression Testing",
+    "option2": "Sanity Testing"
+  },
+  {
+    "answerkey": "3",
+    "question": "Which is whitebox testing technique?",
+    "option3": "Decision table testing",
+    "option4": "Adhoc Testing",
+    "option1": "Equivalent Partitioning",
+    "option2": "Boundary value testing"
+  },
+  {
+    "answerkey": "4",
+    "question": "Which is not part of system testing?",
+    "option3": "Load Testing",
+    "option4": "Unit Testing",
+    "option1": "Regression Testing",
+    "option2": "Sanity Testing"
+  },
+  {
+    "answerkey": "3",
+    "question": "Which is whitebox testing technique?",
+    "option3": "Decision table testing",
+    "option4": "Adhoc Testing",
+    "option1": "Equivalent Partitioning",
+    "option2": "Boundary value testing"
+  },
+  {
+    "answerkey": "2",
+    "question": "Which is a type of non-functional testing?",
+    "option3": "Integration Testing",
+    "option4": "Unit Testing",
+    "option1": "Boundary value testing",
+    "option2": "Performance Testing"
+  },
+  {
+    "answerkey": "3",
+    "question": "Which tool is used for version control?",
+    "option3": "Git",
+    "option4": "Selenium",
+    "option1": "JIRA",
+    "option2": "Jenkins"
+  },
+  {
+    "answerkey": "3",
+    "question": "Which is not a black-box testing technique?",
+    "option3": "Statement coverage",
+    "option4": "Use case testing",
+    "option1": "Decision table testing",
+    "option2": "State transition testing"
+  },
+  {
+    "answerkey": "2",
+    "question": "Which testing is used to evaluate the software's behavior under abnormal conditions?",
+    "option3": "Security Testing",
+    "option4": "Unit Testing",
+    "option1": "Usability Testing",
+    "option2": "Stress Testing"
+  },
+  {
+    "answerkey": "1",
+    "question": "Which testing level focuses on testing the interactions between integrated units?",
+    "option3": "Acceptance Testing",
+    "option4": "Unit Testing",
+    "option1": "Integration Testing",
+    "option2": "System Testing"
+  },
+  {
+    "answerkey": "4",
+    "question": "Which of the following is not a type of performance testing?",
+    "option3": "Endurance Testing",
+    "option4": "Smoke Testing",
+    "option1": "Load Testing",
+    "option2": "Stress Testing"
+  },
+  {
+    "answerkey": "1",
+    "question": "Which is a dynamic testing technique?",
+    "option3": "Code Inspection",
+    "option4": "Desk Checking",
+    "option1": "Unit Testing",
+    "option2": "Code Walkthrough"
+  },
+  {
+    "answerkey": "4",
+    "question": "Which is not a part of the V-Model in software testing?",
+    "option3": "System Testing",
+    "option4": "User Acceptance Testing",
+    "option1": "Unit Testing",
+    "option2": "Integration Testing"
+  },
+  {
+    "answerkey": "2",
+    "question": "Which technique is used to ensure the completeness of testing?",
+    "option3": "Adhoc Testing",
+    "option4": "Monkey Testing",
+    "option1": "Path Testing",
+    "option2": "Code Coverage"
+  },
+  {
+    "answerkey": "3",
+    "question": "Which testing type is performed without planning and documentation?",
+    "option3": "Adhoc Testing",
+    "option4": "System Testing",
+    "option1": "Regression Testing",
+    "option2": "Performance Testing"
+  },
+  {
+    "answerkey": "1",
+    "question": "Which testing is performed to determine the usability of a software product?",
+    "option3": "Functional Testing",
+    "option4": "System Testing",
+    "option1": "Usability Testing",
+    "option2": "Security Testing"
+  },
+  {
+    "answerkey": "4",
+    "question": "Which testing technique is used to validate the completeness of the user requirements?",
+    "option3": "System Testing",
+    "option4": "Acceptance Testing",
+    "option1": "Integration Testing",
+    "option2": "Unit Testing"
+  },
+  {
+    "answerkey": "3",
+    "question": "Which testing type is primarily used to verify the security features of a software?",
+    "option3": "Security Testing",
+    "option4": "Usability Testing",
+    "option1": "Load Testing",
+    "option2": "Performance Testing"
+  },
+  {
+    "answerkey": "2",
+    "question": "Which testing is often performed by the end users to ensure the software meets their needs?",
+    "option3": "Integration Testing",
+    "option4": "Unit Testing",
+    "option1": "System Testing",
+    "option2": "Acceptance Testing"
+  },
+  {
+    "answerkey": "1",
+    "question": "Which testing method involves testing the internal structure of an application?",
+    "option3": "Grey Box Testing",
+    "option4": "Regression Testing",
+    "option1": "White Box Testing",
+    "option2": "Black Box Testing"
+  },
+  {
+    "answerkey": "2",
+    "question": "Which type of testing is used to ensure new changes have not affected existing functionality?",
+    "option3": "Unit Testing",
+    "option4": "System Testing",
+    "option1": "Sanity Testing",
+    "option2": "Regression Testing"
+  },
+  {
+    "answerkey": "3",
+    "question": "Which testing type focuses on testing the interfaces and interactions between modules?",
+    "option3": "Integration Testing",
+    "option4": "Acceptance Testing",
+    "option1": "Unit Testing",
+    "option2": "System Testing"
+  },
+  {
+    "answerkey": "1",
+    "question": "Which testing is performed first in the software testing lifecycle?",
+    "option3": "System Testing",
+    "option4": "Acceptance Testing",
+    "option1": "Unit Testing",
+    "option2": "Integration Testing"
+  },
+  {
+    "answerkey": "4",
+    "question": "Which of the following is not a type of white box testing?",
+    "option3": "Condition Testing",
+    "option4": "Use Case Testing",
+    "option1": "Path Testing",
+    "option2": "Loop Testing"
+  },
+  {
+    "answerkey": "2",
+    "question": "Which testing technique involves creating test cases based on the application's structure?",
+    "option3": "Adhoc Testing",
+    "option4": "Functional Testing",
+    "option1": "Black Box Testing",
+    "option2": "White Box Testing"
+  },
+  {
+    "answerkey": "1",
+    "question": "Which testing type is designed to ensure that a system is free from vulnerabilities?",
+    "option3": "Usability Testing",
+    "option4": "Unit Testing",
+    "option1": "Security Testing",
+    "option2": "Performance Testing"
+  },
+  {
+    "answerkey": "3",
+    "question": "Which technique is used to test the application under heavy loads?",
+    "option3": "Load Testing",
+    "option4": "Regression Testing",
+    "option1": "Sanity Testing",
+    "option2": "Smoke Testing"
+  },
+  {
+    "answerkey": "4",
+    "question": "Which is not a phase in the software testing lifecycle?",
+    "option3": "Test Execution",
+    "option4": "Test Monitoring",
+    "option1": "Test Planning",
+    "option2": "Test Design"
+  },
+  {
+    "answerkey": "1",
+    "question": "Which testing type focuses on the user interface of an application?",
+    "option3": "Integration Testing",
+    "option4": "Unit Testing",
+    "option1": "UI Testing",
+    "option2": "Backend Testing"
+  },
+  {
+    "answerkey": "3",
+    "question": "Which testing technique is used to check the software's robustness?",
+    "option3": "Fault Injection Testing",
+    "option4": "Unit Testing",
+    "option1": "Boundary Value Analysis",
+    "option2": "Decision Table Testing"
+  },
+  {
+    "answerkey": "2",
+    "question": "Which of the following is an example of a static testing technique?",
+    "option3": "Integration Testing",
+    "option4": "System Testing",
+    "option1": "Unit Testing",
+    "option2": "Code Review"
+  },
+  {
+    "answerkey": "4",
+    "question": "Which type of testing is typically performed last in the testing lifecycle?",
+    "option3": "System Testing",
+    "option4": "Acceptance Testing",
+    "option1": "Unit Testing",
+    "option2": "Integration Testing"
+  },
+  {
+    "answerkey": "1",
+    "question": "Which testing method involves executing the code and checking the outcomes against expected results?",
+    "option3": "Mutation Testing",
+    "option4": "Regression Testing",
+    "option1": "Dynamic Testing",
+    "option2": "Static Testing"
+  },
+  {
+    "answerkey": "2",
+    "question": "Which is a type of non-functional testing?",
+    "option3": "Integration Testing",
+    "option4": "Unit Testing",
+    "option1": "Boundary value testing",
+    "option2": "Performance Testing"
+  }
+]
