@@ -96,6 +96,7 @@ public class Quiz {
             fileWriter.close();
             System.out.println("Saved successfully! Do you want to add more questions? (press s for start and q for quit)");
             c = scanner.next().charAt(0);
+            scanner.nextLine();
         }
 
 
@@ -129,7 +130,7 @@ public class Quiz {
                 System.out.println("2. " + option2);
                 System.out.println("3. " + option3);
                 System.out.println("4. " + option4);
-                System.out.println(answerkey);
+
                 choice   = scanner.nextLine();
                 if (Objects.equals(choice,answerkey))
                 {
